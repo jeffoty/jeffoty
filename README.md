@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffoty" alt="jeffoty" /></a> </p>
 
-- 🔭 I’m currently working on [Elewa Group](https://github.com/jeffoty/elewa-group/tree/main)
+- 🌱 I’m currently learning **Typescript, Angular, and Tailwind**
 
-- 🌱 I’m currently learning **Typescript, React, and Tailwind**
-
-- 💬 Ask me about **Angular, Javascript, Ruby, Ruby on rails, Html, and css**
+- 💬 Ask me about **React, Javascript, Ruby, Ruby on rails, Html, and css**
 
 - 📫 How to reach me **odhiambo47@gmail.com**
 
