@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric Mungai</h1>
+<h1 align="center">Hi 👋, I'm Jeff Otieno</h1>
 <h3 align="center">A passionate fullstack developer from Kenya who is passionate about web development and still learning new technologies every day.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffoty" alt="jeffoty" /></a> </p>
